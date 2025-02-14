@@ -1,0 +1,34 @@
+#myimage{
+    width: 150px;
+    display: block;
+    margin: auto;
+}
+/* body{
+    text-align: center;
+    background-color: black;
+    color: white;
+} */
+#s{
+    color: red;
+    text-align: center;
+}
+.box{
+    outline: 1px solid white;
+}
+.p{
+    font-size: smaller;
+    text-align: left;
+    text-decoration: wavy;
+}
+.mymini{
+    text-align: left;
+    display: grid
+}
+#sp{
+    text-align: center;
+    font-family: cursive;
+}
+.container{
+    text-align: left;
+    display: list-item;
+}
